@@ -1,4 +1,5 @@
-ClassificationAssignment01_NaiveBayes&LogisticRegressionModel_ DryBeanProblem
+ClassificationAssignment02_NaiveBayes&LogisticRegressionModel_ DryBeanProblem
+
 Case Study:
 
 Let's assume you are a data scientist, and you have been tasked with a classification problem of a Dry Bean
